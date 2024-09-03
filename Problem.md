@@ -11,3 +11,6 @@ divisor of 6). If so, determine if it’s an even number or odd number as well.
 7. To find if divisor is even or odd number, find remainder by modulus operator
 8. If the remainder is 0 then the divisor is an even number
 9. Otherwise the divisor is a odd number
+
+![image](https://github.com/user-attachments/assets/e25fe1ba-7aac-48fa-9b81-bc90f1321907)
+
